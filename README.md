@@ -12,3 +12,4 @@ chrome-seotool
 * 模拟spider UA
 * 在页面种标识nofollow链接
 * 在页面中标识无alt的图片
+* 当前域名的ip地址
