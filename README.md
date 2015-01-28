@@ -4,6 +4,10 @@ chrome-seotool
 
 [chrome应用商店地址 seo tool](https://chrome.google.com/webstore/detail/seo-tool/egdommakggfnojigiekblhekngjpfmbd?hl=zh-CN)<br />
 
+![github](https://raw.githubusercontent.com/yseasony/chrome-seotool/master/images/1.png "github")
+
+![github](https://raw.githubusercontent.com/yseasony/chrome-seotool/master/images/2.png "github")
+
 ###v1.0.0
 ----------------------
 第一个版本，主要功能为：
