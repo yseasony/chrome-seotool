@@ -8,6 +8,15 @@ chrome-seotool
 
 ![github](https://raw.githubusercontent.com/yseasony/chrome-seotool/master/images/2.png "github")
 
+###v1.0.2
+----------------------
+1、修复了页面中标识nofollow链接的问题
+
+###v1.0.1
+----------------------
+1、修复获取keywords，description，canonical时大小写问题。
+2、修复标识nofollow链接，标识无alt的图片选择框错误问题。
+
 ###v1.0.0
 ----------------------
 第一个版本，主要功能为：
